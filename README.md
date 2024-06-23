@@ -1,1 +1,1 @@
-# moles-zoomcamp
+# mlops-zoomcamp
