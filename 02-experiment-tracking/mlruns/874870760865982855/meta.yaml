@@ -1,0 +1,6 @@
+artifact_location: file:///Users/romainpepin/Desktop/MLOps/mlops-zoomcamp/02-experiment-tracking/mlruns/874870760865982855
+creation_time: 1719348138916
+experiment_id: '874870760865982855'
+last_update_time: 1719348138916
+lifecycle_stage: active
+name: my-experiment

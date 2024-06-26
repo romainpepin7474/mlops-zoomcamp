@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/romainpepin/Desktop/MLOps/mlops-zoomcamp/02-experiment-tracking/mlruns/874870760865982855/72e11679459f44e0a02a24e6655d7d02/artifacts
+end_time: 1719348355993
+entry_point_name: ''
+experiment_id: '874870760865982855'
+lifecycle_stage: active
+run_id: 72e11679459f44e0a02a24e6655d7d02
+run_name: capable-elk-817
+run_uuid: 72e11679459f44e0a02a24e6655d7d02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719348344934
+status: 3
+tags: []
+user_id: romainpepin

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/romainpepin/Desktop/MLOps/mlops-zoomcamp/02-experiment-tracking/mlruns/874870760865982855/935028d6edb244dd8250f6bc1f5a363f/artifacts
+end_time: 1719348150739
+entry_point_name: ''
+experiment_id: '874870760865982855'
+lifecycle_stage: active
+run_id: 935028d6edb244dd8250f6bc1f5a363f
+run_name: skittish-sloth-917
+run_uuid: 935028d6edb244dd8250f6bc1f5a363f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719348139516
+status: 3
+tags: []
+user_id: romainpepin
